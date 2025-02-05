@@ -1,4 +1,4 @@
-﻿namespace Ex003
+﻿namespace Operadores Aritimetico
 {
     internal class Program
     {
